@@ -1,2 +1,1 @@
-# p5-multiplayer-car-race-game
-Multiplayer Car Racing Game
+# Multiplayer Car Racing Game
